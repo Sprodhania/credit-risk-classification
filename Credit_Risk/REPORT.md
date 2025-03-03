@@ -15,13 +15,13 @@ This analysis evaluates a machine learning model for credit risk classification 
 **Results**
 
 Machine Learning Model: Logistic Regression
-  •	Accuracy: >99%
-  •	Precision (High-Risk Loans): 84%
-  •	Recall (High-Risk Loans): 94%
-  •	F1-Score (High-Risk Loans): 89%
-  •	Precision (Low-Risk Loans): 100%
-  •	Recall (Low-Risk Loans): 99%
-  •	F1-Score (Low-Risk Loans): 100%
+  - Accuracy: >99%
+  - Precision (High-Risk Loans): 84%
+  - Recall (High-Risk Loans): 94%
+  - F1-Score (High-Risk Loans): 89%
+  - Precision (Low-Risk Loans): 100%
+  - Recall (Low-Risk Loans): 99%
+  - F1-Score (Low-Risk Loans): 100%
   
 **Summary**
 
